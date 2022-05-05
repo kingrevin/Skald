@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/CarterScene.unity
+    guid: 63ac7ebbb932a8e44b184326cf56a057
   - enabled: 1
-    path: Assets/Examples/Scenes/Main.unity
-    guid: 17d10320f148ee64488837d5f8008cfd
+    path: Assets/Scenes/Aidan_Scene.unity
+    guid: b299550e0e0460c44815fd3a021fec65
   m_configObjects: {}
