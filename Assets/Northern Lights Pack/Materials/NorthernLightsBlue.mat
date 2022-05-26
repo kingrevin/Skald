@@ -12,7 +12,7 @@ Material:
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
@@ -71,8 +71,8 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DistortScale: 0.001
-    - _DistortSpeed: 0.115
+    - _DistortScale: 0.00033
+    - _DistortSpeed: 0.3
     - _DstBlend: 0
     - _Elevation: 0
     - _GlossMapScale: 1
@@ -87,7 +87,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WidthScale: 4.65
+    - _WidthScale: 0.1
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
