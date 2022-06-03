@@ -20,7 +20,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Skybox Test 1.unity
     guid: 57fe1ace8b5b840478647ddf3eac8ae2
+  - enabled: 1
+    path: Assets/Scenes/Skybox Test 4.unity
+    guid: 27ec7492a2473ee42b40ca621ca8b57a
   m_configObjects: {}
