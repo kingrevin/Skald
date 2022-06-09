@@ -26,7 +26,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Skybox Test 4.unity
     guid: 27ec7492a2473ee42b40ca621ca8b57a
-  - enabled: 1
-    path: Assets/Scenes/Main.unity
+  - enabled: 0
+    path: Assets/Scenes/Aidan_Scene 1.unity
     guid: 2d74f8692fc763443aba1282ab03cc9b
+  - enabled: 1
+    path: Assets/Scenes/Aidan_Scene 2.unity
+    guid: 5fb642a67ba2bc147a77b8b561c0616a
   m_configObjects: {}
